@@ -1,11 +1,11 @@
 # R-STUDIO-data-science
 
-                                                                                                           REPORT 1(Exploratory data analysis)
+                  REPORT 1(Exploratory data analysis)
                                                                                                            
                                                                                                            
-                                                                                                                         TITLE
-                                                                                                                         
-                                                                                     Exploring Cardiovascular Health: A Comprehensive Analysis of Heart Attack Risk   
+                         TITLE
+                         
+Exploring Cardiovascular Health: A Comprehensive Analysis of Heart Attack Risk   
 
 A-Introduction: 
 
